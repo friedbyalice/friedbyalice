@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-- 💼 Looking for a full time job starting in March 2025 or later.
-
-- 🔭 Currently working on my Master's Thesis at Oracle Research in Zurich
-- 🤌 EPFL student. In the past semesters I have taken courses in these fields:
-  + Programming Languages and Compilers
-  + Security and Privacy
-  + Distributed and Concurrent Algorithms
-  + Databases
+- 🧑‍💼 Currently working in the Java Platform Group at Oracle in Zurich
+- CS Master's at EPFL / Computer Engineering Bachelor's at PoliTo
+- **Trans Rights are Human Rights!**
 - 📫 How to reach me:
   [dev@alicepellegrini.me](mailto:dev@alicepellegrini.me)
 - 👨🏻‍💻 Personal website: [alicepellegrini.me](https://alicepellegrini.me)
